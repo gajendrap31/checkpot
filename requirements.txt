@@ -1,4 +1,5 @@
-hg+https://vladflorea@bitbucket.org/vladflorea/python-nmap
+#hg+https://vladflorea@bitbucket.org/vladflorea/python-nmap
+python-nmap
 beautifulsoup4
 docker
 termcolor
