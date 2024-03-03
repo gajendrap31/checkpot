@@ -74,7 +74,8 @@ def first_run():
     )
 
     print('Do you agree to these terms?')
-    ans = input('Your answer [type in "i agree"/"no"]: ')
+    #ans = input('Your answer [type in "i agree"/"no"]: ')
+    ans = "i agree"
 
     while ans.lower() != 'i agree' and ans.lower() != 'no':
         print('Please answer with "i agree" or "no"!')
